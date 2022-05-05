@@ -1,72 +1,49 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Decoder Morse Message
 
-# Project Name
+## Description
 
-> Description the project.
-
+> This project is about a short program that helps users to decode any message coded or written from Morse to any Latin based language. 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- Ruby
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+To get the content of this project locally you need to run these commands in your terminal.
+Before starting the steps below, be sure you have [Git](https://www.linode.com/docs/guides/how-to-install-git-on-linux-mac-and-windows/).
+1. Download the `Zip` or clone it with `git clone https://github.com/cynthiainga/Decode-morse-message`
+2. `cd Decode-morse-message`
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Souad El Mansouri**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@souad988](https://github.com/souad988)
+- Twitter: [@souadElmansouri](@souadElmansouri)
+- LinkedIn: [Souad el mansouri](https://www.linkedin.com/in/souad-el-mansouri/)
 
-👤 **Author2**
+👤 **Candy Inga Cynthia**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@cynthiainga](https://github.com/cynthiainga)
+- Twitter: [@CynthiaInga_C](https://twitter.com/CynthiaInga_C)
+- LinkedIn: [Cynthia Inga](https://www.linkedin.com/in/cynthia-inga/)
+
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/cynthiainga/Decode-morse-message/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
+## Acknowledgements
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Thanks to everyone who will get time to check this project especially to code reviewers.
 
 ## 📝 License
 
